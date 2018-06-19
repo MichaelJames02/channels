@@ -35,3 +35,4 @@ channel on Freenode.
 
 You can also install channels from PyPI as the ``channels`` package.
 You'll likely also want ``asgi_redis`` to provide the Redis channel layer.
+
